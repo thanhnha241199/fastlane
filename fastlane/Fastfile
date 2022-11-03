@@ -31,7 +31,7 @@ platform :android do
     desc 'Build and upload to Diawi'
     lane :deploy do | options |
         versionCode = increment_version_code(gradle_file_path: "android/app/build.gradle")
-        outputPath = "build/app/outputs/flutter-apk/app.apk"
+        outputPath = "../build/app/outputs/apk/#{ENV['FLAVOR']}/release/#{ENV['APP_NAME']}-release.apk"
         
         build()
          
