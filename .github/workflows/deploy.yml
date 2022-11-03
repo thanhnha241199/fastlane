@@ -22,9 +22,6 @@ jobs:
         with:
           flutter-version: "3.3.3"
 
-      - name: Upload Diawi
-        uses: rnkdsh/action-upload-diawi@v1.3.0
-
       - name: Install depenencis
         run: |
           export LC_ALL=en_US.UTF-8
