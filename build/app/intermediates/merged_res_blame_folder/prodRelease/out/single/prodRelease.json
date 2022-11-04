@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi_splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi_splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi_splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-v21_background.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-v21/background.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout-v21_notification_action.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xxhdpi_splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi_android12splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xhdpi/android12splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_background.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_notification_bg.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_notification_action.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-night-v21_background.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/drawable-night-v21/background.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-night_background.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/drawable-night/background.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_launch_background.xml.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-night-v21_launch_background.xml.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-night-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/layout_custom_dialog.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-night_launch_background.xml.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-night/launch_background.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xxhdpi_android12splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xxhdpi/android12splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-hdpi_android12splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-hdpi/android12splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-mdpi_android12splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-mdpi/android12splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/nhahuynh/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xxxhdpi_android12splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xxxhdpi/android12splash.png"
+    },
+    {
+        "merged": "/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/merged_res/prodRelease/drawable-xxxhdpi_splash.png.flat",
+        "source": "/Users/nhahuynh/Documents/Flutter_boiler-main/android/app/src/prod/res/drawable-xxxhdpi/splash.png"
+    }
+]

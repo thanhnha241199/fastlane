@@ -1,0 +1,4 @@
+#Fri Nov 04 08:08:21 ICT 2022
+base.0=/Users/nhahuynh/Documents/Flutter_boiler-main/build/app/intermediates/dex/prodRelease/minifyProdReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
